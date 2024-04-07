@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ### Docker
 ```
-docker run quay.io/cvedb/elasticsearch_index
+docker run ghcr.io/cvedb/elasticsearch_index
 ```
 
 ## Usage
